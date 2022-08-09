@@ -1,0 +1,17 @@
+h1{
+    border: 40px;
+    border-color: black;
+    border-width: thick;
+    border-style: none;
+}
+p{
+    border: 20px;
+    border-style: groove;
+    border-color: blue;
+}
+div{
+    border: 50px;
+    box-sizing: content-box;
+    border-style: dashed;
+    border-color: darkgoldenrod;
+}
